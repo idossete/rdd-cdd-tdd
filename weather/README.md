@@ -7,11 +7,11 @@
     2* Open Github and make a fork of rdd-cdd-tdd file and place it in the created file.
     3*Check that GitHub is forked looking at your on rdd-cdd-tdd. It has not to be empty.
     4*Open the created folder on your computer and find the folder "weather". Your like should look like something like that :
-##### "C:\Users\.......\rdd-cdd-tdd\rdd-cdd-tdd\weather".
+##### C:\Users\.......\rdd-cdd-tdd\rdd-cdd-tdd\weather.
     5*Open the command prompt in the repository.
     6*Tape the command "npm install" which allows you to install everything you need to compile the code.
     7*To know the weather of the CITIES around the world, you have to tape the command: 
-##### "node index.js -s name_of_the-city" (you can add "-c" if you want temperatures in degree)
+##### node index.js -s name_of_the-city (you can add "-c" if you want temperatures in degree)
 
     Ps: If it doesn't work and you have an error, it means that you have not install the npm well
 
