@@ -1,8 +1,8 @@
 # cli-weather
-====================================================================================================  
-===============The goal is to install and compile the code of the application Weather===============  
-====================================================================================================  
-============================================DESCRIPTION=============================================
+#====================================================================================================  
+#===============The goal is to install and compile the code of the application Weather===============  
+#====================================================================================================  
+#============================================DESCRIPTION=============================================
 =This code allows you to know from the command prompt of your computer the weather of all cities   =
 =around the world. The open source code is given to help you to understand what the code do and you=
 =can play and update it. Enjoy!                                                                    =
