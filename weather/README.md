@@ -16,4 +16,7 @@
     Ps: If it doesn't work and you have an error, it means that you have not install the npm well
 
 #### Some commands:
-
+    To know what is the temperature where you are:
+###### node index.js
+    To know the temperature in a city:
+###### node index.js -s name_of_the-city (you can add "-c" if you want temperatures in degree instead of fahrenheit)
